@@ -1,0 +1,57 @@
+Phạm Tuấn Việt
+
+Báo cáo thu hoạch
+
+- Framework là ?
+Framework là những đoạn code đã được viết sẵn, cấu thành nên một bộ khung và các thư viện lập trình được đóng gói.
+Chúng cung cấo các tính năng có sẵn như mô hình, API và các yếu tố khác để tối giản cho việc phát triển các ứng dụng web 
+phong phú, năng động. Các framework giống như là chúng ta có khung nhà được làm sẵn nền móng cơ bản, bạn chỉ cần vào xây 
+dựng và nội thất theo ý mình.
+
+- Spring framework là gì, có tác dụng gì ?
+Spring Framework là một trong những khung ứng dụng dựa trên Java phổ biến nhất. Spring Framework được Rod Johnson phát triển
+vào năm 2003. Spring Framework là một khung mã nguồn mở có thể được sử dụng để phát triển các ứng dụng Java một cách dễ dàng
+và với tốc độ nhanh chóng. Nó là một khung công tác nhẹ cũng cung cấp hỗ trợ cơ sở hạ tầng được xác định rõ ràng để phát triển
+các ứng dụng trong Java. Nói cách khác, bạn có thể nói rằng Spring xử lý cơ sở hạ tầng để bạn có thể tập trung hơn vào việc 
+phát triển ứng dụng của mình.
+
+Các lợi ích của Spring framework:
+1) Đảo ngược kiểm soát (IoC)
+Spring cung cấp tính năng chèn phụ thuộc hoặc Inversion of control trong đó lập trình viên không cần tạo đối tượng thay vào 
+đó họ chỉ cần mô tả rằng nó sẽ được tạo như thế nào? Hơn nữa, các nhà phát triển hoặc lập trình viên không cần phải kết nối 
+trực tiếp các thành phần ứng dụng và dịch vụ của chương trình với nhau. Ở đây, người lập trình chỉ phải mô tả rằng thành 
+phần nào sẽ sử dụng dịch vụ nào trong tệp XML. Tất cả các thành phần chỉ bị ràng buộc bởi khung công tác Spring.
+
+2) Trọng lượng nhẹ
+Nếu chúng ta nói về độ trong suốt và kích thước thì Spring là một framework nhẹ. Khung cơ bản Spring chỉ có kích thước khoảng 
+1MB và chi phí xử lý của Spring không quá nhiều.
+
+3) Định hướng theo khía cạnh
+Lập trình hướng khía cạnh cũng được hỗ trợ bởi Spring. Trong mô hình lập trình hướng theo khía cạnh, các chức năng phụ hoặc 
+chức năng hỗ trợ được tách biệt khỏi logic nghiệp vụ chính của chương trình chính. Mối quan tâm cắt ngang có thể được tách biệt 
+trong công nghệ AOP mà khó có thể làm được trong lập trình hướng đối tượng. Trong AOP, mô-đun ứng dụng được tăng lên và việc bảo 
+trì nó trở nên khá dễ dàng hơn.
+
+4) MVC Framework
+Spring framework đi kèm với ứng dụng web MVC được xây dựng trên các chức năng chính của Spring. Khung công tác có thể cấu hình 
+cao thông qua các công nghệ nhiều chế độ xem như JSP, iText, Tiles, POI và Velocity, v.v. Các lập trình viên cũng có thể sử dụng 
+các khung công tác khác cùng với khung công tác Spring.
+
+5) Dụng cụ chứa
+Cấu hình và vòng đời của các đối tượng của ứng dụng được quản lý bởi Spring framework. Chúng không chỉ được quản lý bởi Spring 
+mà còn được chứa trong khuôn khổ này.
+
+6) Xử lý ngoại lệ JDBC
+Spring có một lớp trừu tượng JDBC cụ thể và nó cung cấp một hệ thống phân cấp ngoại lệ cũng có ý nghĩa và đơn giản hóa chiến lược 
+xử lý lỗi. Vì nó có thể được tích hợp với JDO, Hibernate và iBATIS, do đó cũng cung cấp các dịch vụ tích hợp tốt nhất.
+
+- Ngoài Spring thì Java còn có các framework nào khác ?
+Grails
+Google Web Toolkit(GWT)
+JavaServer Faces(JSF)
+PLay
+Struts
+Hibernate
+Vaadin
+Wicket
+Vert.X
